@@ -21,7 +21,7 @@ export async function handleEvent(
   //   return error;
   // }
 
-  const axios = require('axios');
+  //const axios = require('axios');
   
   const url = 'https://api.devrev.ai/works.get' ;  
   const token = 'PAT' ;     // '<PAT>'; // Replace <PAT> with your actual personal access token
